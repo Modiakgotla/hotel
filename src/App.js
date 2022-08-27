@@ -1,0 +1,13 @@
+// import logo from './logo.svg';
+import './App.css';
+import Rooms from './components/rooms';
+
+function App() {
+  return (
+    <div className="App">
+    <Rooms/>
+    </div>
+  );
+}
+
+export default App;
