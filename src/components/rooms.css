@@ -102,3 +102,13 @@ padding-right: 40px;
 .border{
     border-right: #f76c2f;
 }
+.facilities{
+    justify-content: center;
+    margin-left: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: small;
+
+}
